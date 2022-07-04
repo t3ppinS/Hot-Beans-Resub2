@@ -1,0 +1,31 @@
+.ihop {
+    width: 750px;
+    height: 400px;
+    margin-left: 550px;
+}
+.col {
+    width: 300px;
+    margin-left: 200px;
+}
+.text {
+    float: inline-block;
+}
+.card {
+    float: left;
+}
+.list-group-item {
+    margin-left: 410px;
+}
+body {background-color: lightblue;}
+
+.container {
+    background-color: white;
+    margin-left: 300px;
+}
+.title-name {
+    margin-left: 800px;
+}
+
+
+    
+
